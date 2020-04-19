@@ -3,7 +3,7 @@ package com.mkyong.examples;
 public class MessageBuilder {
 
     public static String getHelloWorld(){
-        return "hello world";
+        return "hello shridhar's world";
     }
 
     public static int getNumber10(){
